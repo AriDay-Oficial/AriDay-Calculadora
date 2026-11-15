@@ -13,8 +13,8 @@
       "order": 5
     },
     "cup_cash": {
-      "Rbase": 1600,
-      "Rcambio": 675,
+      "Rbase": 1700,
+      "Rcambio": 800,
       "Rdifer": 0.02,
       "Mmin": 10000,
       "Mmax": 100000,
